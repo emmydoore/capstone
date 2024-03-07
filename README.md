@@ -15,7 +15,7 @@ This capstone explores the data behind the tv series Grey's Anatomy to uncover t
 ### **Data Question**
 What makes a good season of Grey’s Anatomy? 
 
-Minimum Viable Product
+### Minimum Viable Product
 The final presentation should include a PowerPoint or Google Slides presentation showcasing my findings. I plan to explore how many episodes an actor has been on the show, who is writing and directing the show, and possibly if the music selection for the episode had any impact on the ratings. 
 
 ### **Schedule**
